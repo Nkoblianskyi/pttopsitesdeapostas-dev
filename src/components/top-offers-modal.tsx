@@ -71,7 +71,7 @@ export function TopOffersModal({ sites }: TopOffersModalProps) {
         </div>
 
         {/* Logo */}
-        <div className="bg-[hsl(var(--muted))] flex items-center justify-center p-6 border-b border-border">
+        <div className="bg-black flex items-center justify-center p-6 border-b border-border">
           <div className="relative h-16 w-48">
             <Image
               src={topSite.logo || "/placeholder.svg"}
