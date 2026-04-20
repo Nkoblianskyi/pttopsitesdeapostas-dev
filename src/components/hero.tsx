@@ -32,7 +32,7 @@ export function Hero() {
               <Image src="/flag.png" alt="Bandeira Portugal" width={16} height={16} className="w-4 h-4" />
               <span className="text-xs md:text-sm font-semibold">100% Legal</span>
             </div>
-            <div className="flex items-center gap-1.5 text-white">
+            <div className="flex items-center gap-1.5 text-white bg-black/60 px-2 py-1 rounded">
               <Image src="/srij.svg" alt="SRIJ" width={24} height={24} className="w-4 h-4" />
               <span className="text-xs md:text-sm font-semibold">Licença</span>
             </div>
