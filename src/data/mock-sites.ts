@@ -31,8 +31,20 @@ export const bettingSites: BettingSite[] = [
     terms: "18+ | Jogo seguro e responsável | Licença SRIJ | Aplicam-se termos e condições",
     isTopLine: true,
   },
-  {
+    {
     id: 2,
+    name: "Solverde",
+    logo: "/solverde.svg",
+    bonus: "300% até 30€ em Aposta Grátis",
+    url: "https://www.solverde.pt/",
+    rating: 9.6,
+    stars: 4.4,
+    reviews: 3182,
+    badges: ["MARCA PORTUGUESA"],
+    terms: "18+ | Jogo seguro e responsável | Licença SRIJ | Aplicam-se termos e condições",
+  },
+  {
+    id: 3,
     name: "BWIN",
     logo: "/bwin.png",
     bonus: "Aposta Grátis por Nossa Conta!",
@@ -43,18 +55,7 @@ export const bettingSites: BettingSite[] = [
     badges: ["MARCA INTERNACIONAL"],
     terms: "18+ | Jogo seguro e responsável | Licença SRIJ | Aplicam-se termos e condições",
   },
-  {
-    id: 3,
-    name: "Solverde",
-    logo: "/solverde.svg",
-    bonus: "300% até 30€ em Aposta Grátis",
-    url: "https://www.solverde.pt/",
-    rating: 9.4,
-    stars: 4.4,
-    reviews: 2495,
-    badges: ["MARCA PORTUGUESA"],
-    terms: "18+ | Jogo seguro e responsável | Licença SRIJ | Aplicam-se termos e condições",
-  },
+
   {
     id: 4,
     name: "Betclic",
