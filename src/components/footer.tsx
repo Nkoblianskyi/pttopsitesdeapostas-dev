@@ -74,7 +74,7 @@ export function Footer() {
                 
               </Link>
               <Link
-                href="https://www.sicad.pt/"
+                href="https://www.icad.pt/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-white/10 hover:bg-white/20 transition-colors p-2 flex flex-col items-center"
