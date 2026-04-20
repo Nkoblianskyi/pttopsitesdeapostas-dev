@@ -19,7 +19,7 @@ export function Hero() {
           className="object-cover object-top"
           priority
         />
-        <div className="absolute inset-0 bg-[hsl(var(--porto-blue))]/70" />
+        <div className="absolute inset-0 bg-[hsl(var(--porto-blue))]/60" />
         <div className="absolute inset-0 flex flex-col items-center justify-center px-4 text-center">
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold text-white mb-3 md:mb-4 text-balance">
             Melhores Sites de Apostas em Portugal
@@ -33,7 +33,7 @@ export function Hero() {
               <span className="text-xs md:text-sm font-semibold">100% Legal</span>
             </div>
             <div className="flex items-center gap-1.5 text-white">
-              <Image src="/srij.svg" alt="SRIJ" width={16} height={16} className="w-4 h-4" />
+              <Image src="/srij.svg" alt="SRIJ" width={24} height={24} className="w-4 h-4" />
               <span className="text-xs md:text-sm font-semibold">Licença</span>
             </div>
             <div className="flex items-center gap-1.5 text-white">
