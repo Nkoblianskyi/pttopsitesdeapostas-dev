@@ -69,9 +69,9 @@ export function Footer() {
                 className="bg-white/10 hover:bg-white/20 transition-colors p-2 flex flex-col items-center"
               >
                 <div className="relative w-14 h-7 mb-1">
-                  <Image src="/srij-new.svg" alt="SRIJ" fill className="object-contain brightness-0 invert" />
+                  <Image src="/srij-new.svg" alt="SRIJ" fill className="object-contain" />
                 </div>
-                <span className="text-[9px] text-center text-white/60">Regulação</span>
+                
               </Link>
               <Link
                 href="https://www.sicad.pt/"
@@ -80,9 +80,9 @@ export function Footer() {
                 className="bg-white/10 hover:bg-white/20 transition-colors p-2 flex flex-col items-center"
               >
                 <div className="relative w-14 h-7 mb-1">
-                  <Image src="/icad.png" alt="ICAD" fill className="object-contain brightness-0 invert" />
+                  <Image src="/icad.png" alt="ICAD" fill className="object-contain" />
                 </div>
-                <span className="text-[9px] text-center text-white/60">SICAD</span>
+                
               </Link>
               <Link
                 href="https://www.gambleaware.org/"
@@ -91,9 +91,9 @@ export function Footer() {
                 className="bg-white/10 hover:bg-white/20 transition-colors p-2 flex flex-col items-center"
               >
                 <div className="relative w-14 h-7 mb-1">
-                  <Image src="/gamble-aware.webp" alt="GambleAware" fill className="object-contain brightness-0 invert" />
+                  <Image src="/gamble-aware.webp" alt="GambleAware" fill className="object-contain" />
                 </div>
-                <span className="text-[9px] text-center text-white/60">GambleAware</span>
+                
               </Link>
               <Link
                 href="https://www.gamcare.org.uk/"
@@ -102,9 +102,9 @@ export function Footer() {
                 className="bg-white/10 hover:bg-white/20 transition-colors p-2 flex flex-col items-center"
               >
                 <div className="relative w-14 h-7 mb-1">
-                  <Image src="/gamecare-new.svg" alt="GamCare" fill className="object-contain brightness-0 invert" />
+                  <Image src="/gamecare-new.svg" alt="GamCare" fill className="object-contain" />
                 </div>
-                <span className="text-[9px] text-center text-white/60">GamCare</span>
+                
               </Link>
               <Link
                 href="https://www.jogoresponsavel.pt/"
@@ -113,9 +113,9 @@ export function Footer() {
                 className="bg-white/10 hover:bg-white/20 transition-colors p-2 flex flex-col items-center"
               >
                 <div className="relative w-14 h-7 mb-1">
-                  <Image src="/jogo-responsavel-new.png" alt="Jogo Responsável" fill className="object-contain brightness-0 invert" />
+                  <Image src="/jogo-responsavel-new.png" alt="Jogo Responsável" fill className="object-contain" />
                 </div>
-                <span className="text-[9px] text-center text-white/60">Jogo Resp.</span>
+                
               </Link>
             </div>
           </div>

@@ -5,7 +5,7 @@ export default function PrivacyPolicyPage() {
   return (
     <PolicyPageLayout
       title="Política de Privacidade"
-      lastUpdated="18 de Abril de 2025"
+      lastUpdated="2026"
     >
       <PolicySection title="Introdução">
         <PolicyParagraph>

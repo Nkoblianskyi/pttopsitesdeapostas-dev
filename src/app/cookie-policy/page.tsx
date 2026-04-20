@@ -5,7 +5,7 @@ export default function CookiePolicyPage() {
   return (
     <PolicyPageLayout
       title="Política de Cookies"
-      lastUpdated="18 de Abril de 2025"
+      lastUpdated=" 2026"
     >
       <PolicySection title="O Que São Cookies">
         <PolicyParagraph>
